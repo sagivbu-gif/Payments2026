@@ -1,1 +1,6 @@
 streamlit
+pandas
+gspread
+google-generativeai
+google-auth
+openpyxl
